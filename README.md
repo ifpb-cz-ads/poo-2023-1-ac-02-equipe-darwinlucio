@@ -1,6 +1,8 @@
 ## Questão 01
+A JVM é responsável por interpretar o formato bytecode do código java,permitindo assim a despreocupação aonde esse código será executado.
 
 ## Questão 02
+JRE é o ambiente de execução de uma aplicação java,é aonde está localizada tudo aquilo que o programador precisa para executar a aplicação.Já a JDK são um conjunto de ferramentas utéis ao desenvolvedor.
 
 ## Questão 03
 MyProgram.java
