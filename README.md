@@ -15,3 +15,7 @@ Quando mudamos o nome do método de 'main' para 'start', ele consegue compilar, 
 MyProgram2.java
 
 ## Questão 07
+Não reconheceu como uma classe
+
+## Questão 08
+Ocorre um erro na compilação informando que a classe MyPromgram2 precisa ser declarada no nome do arquivo também.
